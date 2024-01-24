@@ -1,0 +1,9 @@
+.contededor-item{
+    text-align: center;
+    border-radius: 1px solid black;
+    margin: 3rem;
+}
+
+img {
+    width: 20vw;
+}
